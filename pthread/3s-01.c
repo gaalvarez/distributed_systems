@@ -74,7 +74,7 @@ int main(int argc, char* argv[]) {
 			printf("[3s-01] Thread created!\n");
 		i++;
 		tt2 = clock();
-		printf("[3s-01] Elapsed full time %f\n", (((float)t2 - (float)t1) / 1000000.0F ) * 1000);
+		printf("[3s-01] Elapsed thread time %f\n", (((float)t2 - (float)t1) / 1000000.0F ) * 1000);
 		printf(" for thread: [%d]", i);
 	}
 	t2 = clock();
