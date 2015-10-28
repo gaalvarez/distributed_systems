@@ -7,4 +7,6 @@ asignatura de sistemas distribuidos en la universidad del valle 2015.
 - **pthread folder**. Contiene una serie de archivos que ejemplifican el 
 uso de programación en paralelo usando hilos en lenguaje C.
 
+- **openmp folder**. Contiene unos ejemplos de programación en paralelo usando el API Openmp.
+
 
